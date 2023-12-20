@@ -10,16 +10,21 @@
 - 🌐 HTML | CSS | Bootstrap | React.js
 ![HTML](https://img.shields.io/badge/HTML-blue) , ![CSS](https://img.shields.io/badge/CSS-blue) , ![Bootstrap](https://img.shields.io/badge/Bootstrap-orange) , ![React.js](https://img.shields.io/badge/React.js-Beginner-orange)
 - 🛢️ MySQL ![MySQL](https://img.shields.io/badge/MySQL-brightgreen)
-- 🧰 VS Code | Eclipse | MySQL Workbench
+- 🧰 Visual Studio Code | Eclipse | MySQL Workbench
 
+## Projects
 
-
-
-
-
+- 🌐 [Project 1](link-to-project-1): Brief description
+- 🌟 [Project 2](link-to-project-2): Brief description
+- ⚙️ [Project 3](link-to-project-3): Brief description
 
 ### 📫 How to reach me: 
+- 😄 Pronouns: Hao
+- ⚡ Email: yan46648@gmail.com
+  
+## Connect with Me
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- LinkedIn: [https://www.linkedin.com/in/thu-yell-min-1298a0232/]
+- Facebook : [https://www.facebook.com/JunHaoYangkk?mibextid=LQQJ4d] 
+
 
