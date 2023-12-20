@@ -6,7 +6,7 @@
 💬 Ask me about ...
 ## Skills
 
-- 💻 Java | Spring Boot ![Java](https://img.shields.io/badge/Java-Intermediate-orange) , ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Advanced-brightgreen)
+- 💻 Java | Spring Boot ![Java](https://img.shields.io/badge/Java-orange) , ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)
 - 🌐 HTML | CSS | Bootstrap | React.js
 ![HTML](https://img.shields.io/badge/HTML-blue) , ![CSS](https://img.shields.io/badge/CSS-blue) , ![Bootstrap](https://img.shields.io/badge/Bootstrap-orange) , ![React.js](https://img.shields.io/badge/React.js-Beginner-orange)
 - 🛢️ MySQL ![MySQL](https://img.shields.io/badge/MySQL-brightgreen)
