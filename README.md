@@ -14,9 +14,9 @@
 
 ## Projects
 
-- 🌐 [https://github.com/JunHaoyell/XYZ-Car-Portal](link-to-project-1): Brief description
-- 🌟 [https://github.com/JunHaoyell/meals-on-wheel-project](link-to-project-2): Brief description
-- ⚙️ [https://github.com/JunHaoyell/Car-Sale-Portal](link-to-project-3): Brief description
+- 🌐 [https://github.com/JunHaoyell/XYZ-Car-Portal](link-to-project-1): XYZ Car sale portal
+- 🌟 [https://github.com/JunHaoyell/meals-on-wheel-project](link-to-project-2): Meal On Wheel project
+- ⚙️ [https://github.com/JunHaoyell/Car-Sale-Portal](link-to-project-3): Car Sale Portal 2
 
 ### 📫 How to reach me: 
 - 😄 Pronouns: Hao
