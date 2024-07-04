@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am Yell Min Thu
 🔭  
 ### 🌱 I’m currently learning BTEC Higher National Diploma in Computing
 ### 👯 I’m looking to get an Internship...
