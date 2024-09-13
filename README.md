@@ -7,7 +7,7 @@
 ## Skills
 
 - 💻 Java | Spring Boot ![Java](https://img.shields.io/badge/Java-orange) , ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)
-- 🌐 HTML | CSS | Bootstrap | React.js
+- 🌐 
 ![HTML](https://img.shields.io/badge/HTML-blue) , ![CSS](https://img.shields.io/badge/CSS-blue) , ![Bootstrap](https://img.shields.io/badge/Bootstrap-orange) , ![React.js](https://img.shields.io/badge/React.js-orange)
 - 🛢️ MySQL ![MySQL](https://img.shields.io/badge/MySQL-brightgreen)
 - 🧰 Visual Studio Code | Eclipse | MySQL Workbench
