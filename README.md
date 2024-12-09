@@ -19,7 +19,6 @@
   
 ## Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/thu-yell-min-1298a0232/]
 - Facebook : [https://www.facebook.com/JunHaoYangkk?mibextid=LQQJ4d] 
 
 
